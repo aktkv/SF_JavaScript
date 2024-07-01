@@ -1,19 +1,19 @@
 const images = [{
-    url:"'firstSlider.jpg'",
+    url: 'src/img/firstSlider.jpg',
     title: "Rostov-on-Don, Admiral",
     city: "Rostov-on-Don<br> LCD admiral",
     area: "81 m2",
     time: "3.5 months",
     cost: "Upon request"
 }, {
-    url: "'secondSlider.jpg'",
+    url: 'src/img/secondSlider.jpg',
     title: "Sochi Thieves",
     city: "Sochi<br> Thieves",
     area: "105 m2",
     time: "4 months",
     cost: "Upon request"
 }, {
-    url: "'thirdSlider.jpg'",
+    url: 'src/img/thirdSlider.jpg',
     title: "Rostov-on-Don Patriotic",
     city: "Rostov-on-Don<br> Patriotic",
     area: "93 m2",
